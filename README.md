@@ -10,8 +10,7 @@
   Soy de esas personas que, si desconocen algo, no descansarán hasta encontrar la respuesta,creo que el arma mas importante es la mente, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos. 
   <br/>
 <p>
-  .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward 
-
+  .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
 </p>
 <br>
 <p>
@@ -23,13 +22,7 @@
     -.🌱Nexjs <br/>
     -.Prisma  <br/>
   </p>
-  <h4>Hobbies</h4>
-  <p>
-    -
-    -
-    -
-  </p>
-</p>
+
 <br/>
 
 
