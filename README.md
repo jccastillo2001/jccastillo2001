@@ -2,7 +2,7 @@
 <h1 align="center">¡Hey 👋! soy Julio Cesar 👩🏻‍💻</h1>
 <h3 align="center">Buenos Aires, Argentina🌎</h3><br/> 
 
-![Daiana Grillia (1)](https://user-images.githubusercontent.com/94879125/214957275-f4cd4523-e46f-4e61-b8cf-9ccad8f9f66b.gif)
+![julio cesar (1)](https://github.com/jccastillo2001/jccastillo2001/assets/121982199/e3f3f01f-70ac-4430-beb5-e2260a6b9102)
 
 
 <h2>Sobre mi</h2>
