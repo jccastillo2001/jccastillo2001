@@ -1,5 +1,5 @@
 
-<h1 align="center">¡Hey 👋! soy Julio Cesar 👩🏻‍💻</h1>
+<h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 <h3 align="center">Lima, Peru🌎</h3><br/> 
 
 ![julio cesar (1)](https://github.com/jccastillo2001/jccastillo2001/assets/121982199/e3f3f01f-70ac-4430-beb5-e2260a6b9102)
@@ -7,21 +7,23 @@
 
 <h2>Sobre mi</h2>
 <p>
-  Soy de esas personas que, si desconocen algo, no descansarán hasta encontrar la respuesta,creo que el arma mas importante es la mente, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.
-  
+  Soy de esas personas que, si desconocen algo, no descansarán hasta encontrar la respuesta,creo que el arma mas importante es la mente, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos. 
   <br/>
-  <br/>
+<p>
+  .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward 
+  .🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
+</p>
+<br>
   <h4>ESTUDIANDO:</h4>
   <p>
     -.👩‍💻🌱Nexjs <br/>
-    -.Prismae 🧉 <br/>
-    -.Leer 📚
+    -.Prismae  <br/>
   </p>
   <h4>Hobbies</h4>
   <p>
-    -Sudoku ⌛ <br/>
-    -Ajedrez ♟ <br/>
-    -Tejer 🧶
+    -
+    -
+    -
   </p>
 </p>
 <br/>
@@ -44,12 +46,12 @@ const jccastillo2001 = {
 
 <h3 align="left">Conecta conmigo! :</h3>
 <p align="center">
-	<a href="mailto:nicogg08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="castillo19092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
-	<a href="https://github.com/HX-NBurgueno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	<a href="https://github.com/jccastillo2001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/nico-burgueño-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/julio-castillo-5332801ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 
