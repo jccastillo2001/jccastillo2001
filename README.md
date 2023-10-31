@@ -14,8 +14,8 @@
   <h4>ESTUDIANDO:</h4>
   <p>
     -.👩‍💻🌱Nexjs <br/>
-    Prismae 🧉 <br/>
-    -Leer 📚
+    -.Prismae 🧉 <br/>
+    -.Leer 📚
   </p>
   <h4>Hobbies</h4>
   <p>
@@ -43,9 +43,15 @@ const jccastillo2001 = {
 ```
 
 <h3 align="left">Conecta conmigo! :</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/julio-castillo-5332801ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daiana-grillia" height="30" width="40" /></a>
+<p align="center">
+	<a href="mailto:nicogg08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	&emsp;
+	<a href="https://github.com/HX-NBurgueno"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	</a>
+	&emsp;
+	<a href="https://www.linkedin.com/in/nico-burgueño-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
+
 
 
 
