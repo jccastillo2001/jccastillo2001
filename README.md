@@ -11,13 +11,17 @@
   <br/>
 <p>
   .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward 
-  .🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
+
+</p>
+<br>
+<p>
+ .🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
 </p>
 <br>
   <h4>ESTUDIANDO:</h4>
   <p>
-    -.👩‍💻🌱Nexjs <br/>
-    -.Prismae  <br/>
+    -.🌱Nexjs <br/>
+    -.Prisma  <br/>
   </p>
   <h4>Hobbies</h4>
   <p>
@@ -46,7 +50,7 @@ const jccastillo2001 = {
 
 <h3 align="left">Conecta conmigo! :</h3>
 <p align="center">
-	<a href="castillo19092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:castillo19092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
 	<a href="https://github.com/jccastillo2001"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
