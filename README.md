@@ -23,7 +23,7 @@
   </p>
   <p>
 	-.📝Este es mi 
-	<a href= "https://drive.google.com/drive/my-drive">curriculum</a>	  
+	<a href= "https://github.com/jccastillo2001/jccastillo2001/blob/main/Full-Stack%20Developer.pdf">curriculum</a>	  
   </p>
 
 <br/>
