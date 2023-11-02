@@ -22,7 +22,7 @@
     -.Prisma  <br/>
   </p>
   <p>
-	-.este es mi 
+	-.📝Este es mi 
 	<a href= "https://drive.google.com/drive/my-drive">curriculum</a>	  
   </p>
 
