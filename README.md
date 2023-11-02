@@ -12,7 +12,6 @@
 <p>
   .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
 </p>
-<br>
 <p>
  .🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
 </p>
@@ -21,6 +20,10 @@
   <p>
     -.🌱Nexjs <br/>
     -.Prisma  <br/>
+  </p>
+  <p>
+	-.este es mi 
+	<a href= "https://drive.google.com/drive/my-drive">curriculum</a>	  
   </p>
 
 <br/>
