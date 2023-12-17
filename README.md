@@ -23,7 +23,7 @@ Soy una persona que le encanta el aprendizaje constante. Me fascina descubrir co
   </p>
   <p>
 	-.📝Este es mi 
-	<a href= "https://drive.google.com/file/d/1-0bnn75tW_rgUTcXCWFgMlgGFvzDkr3O/view">curriculum</a>	  
+	<a href= "https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view">curriculum</a>	  
   </p>
 
 <br/>
