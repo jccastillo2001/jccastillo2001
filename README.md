@@ -24,7 +24,7 @@ Soy un  Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nu
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/)
 - 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, anime: dragon ball y naruto 
 
-- 📝 &nbsp; Aqui puedes encontrar mi curriculum en [>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
+- 📝 &nbsp; Aqui puedes encontrar mi curriculum en  y <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
   
 <div>
 	<p>
