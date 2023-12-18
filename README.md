@@ -4,12 +4,12 @@
 
 
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/e3f3f01f-70ac-4430-beb5-e2260a6b9102" align="right" height="554">	
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" width= "300" height="554">	
 
 
-<h2>Sobre mi</h2>
+<h2>Acerca de Mi</h2>
 <p>
-Soy una persona que le encanta el aprendizaje constante. Me fascina descubrir cosas nuevas y sumergirme en la belleza del mundo natural.” ,si desconocen algo, no descansaré hasta encontrar la respuesta,para mi el arma mas poderosa es la mente, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos. 
+Soy un  Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nuevas y sumergirme selva(pescar,cazar animales🎯).” ,si desconocen algo, no descansaré hasta encontrar la respuesta,para mi el arma mas poderosa es la mente, sobre todo lo que implica desafíos de lógica. Por eso mismo, decidí integrarme en el mundo del Desarrollo y me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos. 
   <br/>
 <p>
   .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
@@ -18,17 +18,31 @@ Soy una persona que le encanta el aprendizaje constante. Me fascina descubrir co
  .🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
 </p>
 <br>
-  <h4>ESTUDIANDO:</h4>
-  <p>
-    -.🌱Nexjs <br/>
-    -.Prisma  <br/>
-  </p>
-  <p>
-	-.📝Este es mi 
-	<a href= "https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view">curriculum</a>	  
-  </p>
 
+- 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
+- 🌱 &nbsp; Actualmente estoy aprendiendo Next.js y Prisma, estoy interesado en aprender Python en el futuro;
+- 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/)
+- 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, anime: dragon ball y naruto 
+
+- 📝 &nbsp; Aqui puedes encontrar mi curriculum en [>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
+  
+<div>
+	<p>
+	<h2>Frases💲🐱‍👤:</h2>
+		
+	Ⅰ. El crecimiento ocurre cuando uno va más allá de sus límites. Darse cuenta de esto también es parte del entrenamiento. <br>	
+	Ⅱ. La vida de las personas no acaba cuando mueren, acaba cuando pierden la fe. <br>
+	Ⅲ. Nosotros no sabemos verdaderamente qué clase de persona somos, hasta el momento justo antes de nuestra muerte. <br>
+	Ⅳ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia. <br>
+	Ⅴ. En realidad, no creo que exista algo así como la perfección. Es por eso que nacimos capaces de absorber las cosas y, al compararnos con algo más, finalmente podemos ir en una buena dirección. <br>
+	
+</p>
+</div>
+
+</div>
+<!--  -->
 <br/>
+
 
 
 ```js
