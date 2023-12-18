@@ -34,7 +34,8 @@ Soy un  Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nu
 	Ⅱ. La vida de las personas no acaba cuando mueren, acaba cuando pierden la fe. <br>
 	Ⅲ. Nosotros no sabemos verdaderamente qué clase de persona somos, hasta el momento justo antes de nuestra muerte. <br>
 	Ⅳ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia. <br>
-	Ⅴ. En realidad, no creo que exista algo así como la perfección. Es por eso que nacimos capaces de absorber las cosas y, al compararnos con algo más, finalmente podemos ir en una buena dirección. <br>
+	Ⅴ. En realidad, no creo que exista algo así como la perfección. Es por eso que nacimos capaces de absorber las cosas y,
+           al compararnos con algo más, finalmente podemos ir en una buena dirección. <br>
 	
 </p>
 </div>
