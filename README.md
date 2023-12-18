@@ -20,7 +20,7 @@ Soy un  Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nu
 <br>
 
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
-- 🌱 &nbsp; Actualmente estoy aprendiendo Next.js y Prisma, estoy interesado en aprender Python en el futuro;
+- 🌱 &nbsp; Actualmente estoy aprendiendo Next.js y Prisma, estoy interesado en aprender Python ;
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/)
 - 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, anime: dragon ball y naruto 
 
@@ -35,7 +35,7 @@ Soy un  Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nu
 	Ⅲ. Nosotros no sabemos verdaderamente qué clase de persona somos, hasta el momento justo antes de nuestra muerte. <br>
 	Ⅳ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia. <br>
 	Ⅴ. En realidad, no creo que exista algo así como la perfección. Es por eso que nacimos capaces de absorber las cosas y,
-           al compararnos con algo más, finalmente podemos ir en una buena dirección. <br>
+       al compararnos con algo más, finalmente podemos ir en una buena dirección. <br>
 	
 </p>
 </div>
