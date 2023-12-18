@@ -7,10 +7,10 @@
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" width= "300" height="554">	
 <h2>Acerca de Mi</h2>
 <p>
-<p>.Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nuevas y sumergirme selva(pescar,cazar animales🎯), me gusta tanto el front-end tanto como el Back-End. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.<br> </p>
-<p>.Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
+<p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nuevas y el mundo natural. Actualmente, continúo instruyéndome con nuevas tecnologías en ambas áreas para poder desarrollar aún más mis habilidades e incrementar mis conocimientos.<br> </p>
+<p>💪Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  .⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
+  ⚽Me encanta el futbol es mi forma de relajarme ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
 </p>
 <p>
  🙋‍♂️Soy cooperativo y disfruto enseñando, ya que considero que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
