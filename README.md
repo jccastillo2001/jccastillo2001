@@ -19,7 +19,7 @@
 <br>
 
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
-- 🌱 &nbsp; Actualmente estoy aprendiendo Next.js y Prisma, estoy interesado en     aprender Python ;
+- 🌱 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/);
 - 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, anime: dragon ball y naruto;
 
