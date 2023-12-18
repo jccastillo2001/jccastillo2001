@@ -2,7 +2,9 @@
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 <h3 align="center">Lima, Peru🌎</h3><br/> 
 
-![julio cesar (1)](https://github.com/jccastillo2001/jccastillo2001/assets/121982199/e3f3f01f-70ac-4430-beb5-e2260a6b9102)
+
+</p>
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/e3f3f01f-70ac-4430-beb5-e2260a6b9102" align="right" height="554">	
 
 
 <h2>Sobre mi</h2>
