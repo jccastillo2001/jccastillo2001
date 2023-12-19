@@ -2,13 +2,13 @@
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 <h3 align="center">Lima, Peru🌎</h3>
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="500" width="300" ">	
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="455" width="300" ">	
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina el mundo natural. Actualmente aprendo nevas tecnologías para desarrollar aún más mis skills.<br> </p>
 <p>💪Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  ⚽🙋‍♂️Me encanta este deporte,me traslada de nuevo al colegio,dabamos todo por un minuto de futbol ,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
+  ⚽🙋‍♂️Me encanta este deporte,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
 <br>
 
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
@@ -18,20 +18,13 @@
 
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
   
-<div>
-	<p>
-	<h2>Frases💲🐱‍👤:</h2>
-		
-	Ⅰ. El crecimiento ocurre cuando uno va más allá de sus límites. Darse cuenta de esto también es parte del entrenamiento. 	
-	Ⅱ. La vida de las personas no acaba cuando mueren, acaba cuando pierden la fe. 
-	Ⅲ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia.
-	
-</p>
-</div>
 
 </div>
 <!--  -->
 <br/>
+
+
+
 
 
 
