@@ -30,9 +30,7 @@
 		
 	Ⅰ. El crecimiento ocurre cuando uno va más allá de sus límites. Darse cuenta de esto también es parte del entrenamiento. 	
 	Ⅱ. La vida de las personas no acaba cuando mueren, acaba cuando pierden la fe. 
-	Ⅲ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia. 
-	Ⅳ. En realidad, no creo que exista algo así como la perfección. Es por eso que nacimos capaces de absorber las cosas y,
-       al compararnos con algo más, finalmente podemos ir en una buena dirección. 
+	Ⅲ. no debemos juzgar a los demás simplemente por nuestros prejuicios, ni hacer juicios basados en la apariencia.
 	
 </p>
 </div>
