@@ -10,7 +10,7 @@
 <p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina descubrir cosas nuevas y el mundo natural. Actualmente, continúo instruyéndome con nuevas tecnologías para desarrollar aún más mis habilidades.<br> </p>
 <p>💪Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  ⚽Me encanta el futbol ,no solo por la disiplina si no toda esa buena energia y frescura que me da el deporte que luego lo traslado al ambito desarrolla de softward.
+  ⚽Me encanta este deporte,amigos,recuerdos hermosos del colegio,dabamos todo por un minuto futbol ,disciplina,es mucho mas que un deporte es companerismo amor y todo esto se traslada despues de un partido al desarrollo de softwar.
 </p>
 <p>
  🙋‍♂️Soy cooperativo y disfruto enseñando, ya que el trabajo en equipo es crucial. Esto se debe a que me permite aprender de mis compañeros y adquirir conocimientos de los demás.	
