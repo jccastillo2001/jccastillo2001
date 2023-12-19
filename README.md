@@ -32,7 +32,6 @@
 
 ```js
 const jccastillo2001 = {
-  pronouns: 'she' || 'her',
   code: {
     languages: [ "JavaScript", "TypeScript" ],
     database: [ "MongoDB", "PostgreSQL", Prisma ],
