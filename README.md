@@ -2,7 +2,7 @@
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 <h3 align="center">Lima, Peru🌎</h3>
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="452" width="296" ">	
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="450" width="294" ">	
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina el mundo natural.Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
@@ -19,9 +19,11 @@
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
   
 
+
 </div>
 <!--  -->
 <br/>
+
 
 
 
