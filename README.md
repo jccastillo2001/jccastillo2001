@@ -5,7 +5,7 @@
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="500" width="300" ">	
 <h2>Acerca de Mi</h2>
 <p>
-<p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina el mundo natural. Actualmente aprendo nevas tecnologías para desarrollar aún más mis habilidades.<br> </p>
+<p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina el mundo natural. Actualmente aprendo nevas tecnologías para desarrollar aún más mis skills.<br> </p>
 <p>💪Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
   ⚽🙋‍♂️Me encanta este deporte,me traslada de nuevo al colegio,dabamos todo por un minuto de futbol ,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
