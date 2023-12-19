@@ -58,7 +58,7 @@ const jccastillo2001 = {
 };
 ```
 
-<h3 align="left">Conecta conmigo! :</h3>
+<h3 align="left">Contactame! :</h3>
 <p align="center">
 	<a href="mailto:castillo19092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
