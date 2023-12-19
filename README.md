@@ -6,9 +6,9 @@
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack. Me fascina el mundo natural. Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
-<p>💪Soy de las personas que si desconocen algo, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
+<p>💪Soy de las personas que si desconozco un tema, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  ⚽🙋‍♂️Me encanta este deporte,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
+  ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
 <br>
 
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
