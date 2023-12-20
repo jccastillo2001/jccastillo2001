@@ -1,14 +1,15 @@
 
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/91812d1f-1570-4394-a8f2-03502633ba98" align="right" height="410" width="245" "><br>
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/91812d1f-1570-4394-a8f2-03502633ba98" align="right" height="410" width="248" "><br>
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
         Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
 <p>💪Soy de las personas que si desconozco un tema, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar.
+  ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y 
+	Todo esto se traslada despues de un partido al desarrollo de softwar.
 <br>
 	
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
