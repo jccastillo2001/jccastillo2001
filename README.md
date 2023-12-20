@@ -1,7 +1,7 @@
 
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/ba225849-8d64-427a-965f-5a11a3dd96c3" align="right" height="410" width="286" "><br>
+<img src=https://github.com/jccastillo2001/jccastillo2001/assets/121982199/c2fe638d-08e0-4fe6-bf4f-e96c492974b5" align="right" height="410" width="250" "><br>
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
