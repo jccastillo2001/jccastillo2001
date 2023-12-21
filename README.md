@@ -11,7 +11,8 @@
   ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y 
 	Todo esto se traslada despues de un partido al desarrollo de softwar.
 <br>
-	
+
+ 
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/);
 - 📧 Email me at [castillo19092001@gmail.com](mailto:castillo19092001@gmail.com).
