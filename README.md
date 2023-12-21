@@ -10,7 +10,7 @@
 <p>
   ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y 
 	Todo esto se traslada despues de un partido al desarrollo de softwar.
-<br>
+<br><br>
 
  
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
