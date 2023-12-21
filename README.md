@@ -17,7 +17,7 @@
 - 📧 Email me at [castillo19092001@gmail.com](mailto:castillo19092001@gmail.com).
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
 - 🌱 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
-- 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
+- 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;<br>
   
 
 
