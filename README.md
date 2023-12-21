@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=55&duration=4000&pause=1000&color=b7410e&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source" alt="Typing SVG" /><hr>
       </a>
 </p><br>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248">
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="450" width="310" >
 <h1  style="margin-top:200;"> !hola soy Julio Cesar! ⚽👋</h1>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
         Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
