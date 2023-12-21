@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=55&duration=4000&pause=1000&color=b7410e&center=true&vCenter=true&width=800&height=100&lines=Hola+soy+Julio+Cesar;Full+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /><hr>
+      <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=55&duration=4000&pause=1000&color=b7410e&center=true&vCenter=true&width=800&height=100&lines=Hola+soy+Julio+Cesar👋;Full+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /><hr>
 </a>
 </p>
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="350" width="240" >
@@ -8,18 +8,18 @@
         Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
 <p>💪Soy de las personas que si desconozco un tema, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
 <p>
-  ⚽🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y 
+  🙋‍♂️Me encanta el futbol,disciplina y liderazgo se requiere en el campo y 
 	Todo esto se traslada despues de un partido al desarrollo de softwar.
 <br><br>
 
 
- 
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/);
 - 📧 Email me at [castillo19092001@gmail.com](mailto:castillo19092001@gmail.com).
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
-- 🌱 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
-- 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;<br>
+- 🌱🧠 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
+- ⚽ &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
+- 🙋‍♂️🙋‍♂️ &nbsp; Liderazgo y Trabajo en equipo<br><br>
   
 
 
