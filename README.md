@@ -1,13 +1,22 @@
+<table style="border: none;">
+  <tr>
+    <td style="background-color:#24292e; color:#fff; padding:10px; width:50%; border: none;">
+      <h1 align="center">Hola soy Julio Cesar⚽👋</h1>
+      <p align="center"> 
+      <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=60&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source" alt="Typing SVG" />
+      </a> 
+      </p>
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248" >
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
-<p align="center"> 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source" alt="Typing SVG" />
-</a> 
-</p>
+<!-- Resto del contenido -->
 
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248" ><br>
-<h2>Acerca de Mi</h2>
+<h2 marign-top= "200">Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
         Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
