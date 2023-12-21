@@ -1,7 +1,12 @@
 
 <h1 align="center">¡hola 👋! soy Julio Cesar ⚽</h1>
+<p align="center"> 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=50&duration=4000&pause=1000&color=0000FF&center=true&vCenter=true&width=800&height=100&lines=Full+Stack+Developer;JavaScript+Enthusiast;Open+Source" alt="Typing SVG" />
+</a> 
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248" "><br>
+
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248" ><br>
 <h2>Acerca de Mi</h2>
 <p>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
@@ -14,6 +19,7 @@
 	
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
 - 📫 &nbsp; no dudes en enviarme un mensaje [>LinkedIn<](https://www.linkedin.com/in/julio-castillo-5332801ab/);
+- 📧 Email me at [castillo19092001@gmail.com](mailto:castillo19092001@gmail.com).
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
 - 🌱 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
 - 📚 &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
