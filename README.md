@@ -4,8 +4,7 @@
       </a><br>
 </p><br>
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="410" width="248">
-<h1  style="margin-top:200;"> !hola soy Julio Cesar! ⚽👋</h1>
-<p>
+<h1  style="margin-top:200;"> !hola soy Julio Cesar! ⚽👋</h1><br>
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
         Studio nevas tecnologías para desarrollar aún más mis skills.<br> </p>
 <p>💪Soy de las personas que si desconozco un tema, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
