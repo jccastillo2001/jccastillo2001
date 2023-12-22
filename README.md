@@ -3,7 +3,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=55&duration=4000&pause=1000&color=67060c&center=true&vCenter=true&width=800&height=100&lines=Hola+soy+Julio+Cesar👋;Full+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /><hr>
 </a>
 </p>
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="420" width="300" >
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="433" width="300" >
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural.  
         Actualmente estoy studiando nevas tecnologías para desarrollar aún más mis habilidades.<br> </p>
 <p>💪Soy de las personas que si desconozco un tema, no descansara hasta encontrar la respuesta,para mi el arma mas poderosa es la mente.</p>
@@ -16,7 +16,7 @@
 	</a>
 	&emsp;
 	<a href="https://www.linkedin.com/in/julio-castillo-5332801ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</span></h3>
+</span></h3><br>
 
 
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
