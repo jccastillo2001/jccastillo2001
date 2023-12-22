@@ -11,7 +11,7 @@
 
 
 - 🙋‍♂️ &nbsp; Me encanta el futbol, la disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido al desarrollo de softwar;
-- 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
+- 👉📫 &nbsp; Aqui puedes encontrar mi curriculum <a>[📝English](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [📝Español](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
 - 🌱 &nbsp; Arendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
 - ⚽ &nbsp; En mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
