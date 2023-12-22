@@ -1,6 +1,6 @@
 <p align="center"> 
 <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=55&duration=4000&pause=1000&color=67060c&center=true&vCenter=true&width=800&height=100&lines=Hola+soy+Julio+Cesar👋;Full+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /><hr>
+      <img src="https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=45&duration=4000&pause=1000&color=67060c&center=true&vCenter=true&width=800&height=100&lines=Hola+soy+Julio+Cesar👋;Full+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /><hr>
 </a>
 </p>
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="440" width="300" >
