@@ -15,7 +15,7 @@
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
 - 🌱 &nbsp; aprendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
 - ⚽ &nbsp; en mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
-- 💪 &nbsp; Liderazgo y Trabajo en equipo <h1><br>
+- 💪 &nbsp; Liderazgo y Trabajo en equipo <h1>
   
 </div>
 <h3 align="center">Contactame! :<p align="center">
