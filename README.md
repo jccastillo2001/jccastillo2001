@@ -5,7 +5,7 @@
 </span>
 <div>
 	
-<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="450" width="350" >
+<img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="440" width="340" >
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural,🧠para mi el arma mas poderosa es la mente.  
           🎯 Actualmente estoy studiando nevas tecnologías para desarrollar aún más mis habilidades.</p>
 <p>
