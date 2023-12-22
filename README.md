@@ -15,9 +15,9 @@
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
 - 🌱 &nbsp; Arendiendo Nextjs y Prisma, estoy interesado en aprender Python ;
 - ⚽ &nbsp; En mi tiempo libro me justa jugar al futbol, amo: dragon ball y naruto;
-- 💪 &nbsp; Liderazgo y Trabajo en equipo <h1>
+- 💪 &nbsp; Liderazgo y Trabajo en equipo.
   
-</div>
+</div><h1>
 <h3 align="center">Contactame! :<p align="center">
 	<a href="mailto:castillo19092001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	&emsp;
@@ -26,8 +26,6 @@
 	&emsp;
 	<a href="https://www.linkedin.com/in/julio-castillo-5332801ab/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p></h3><br><br><hr>
-
-
 
 
 <h3 align="center">Soporte:</h3>
