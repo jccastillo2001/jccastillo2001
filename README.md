@@ -6,7 +6,7 @@
 <div>
 	
 <img src="https://github.com/jccastillo2001/jccastillo2001/assets/121982199/4ba1aa86-4214-4a7b-90e3-aae59feaad14" align="right" height="435" width="325" >
-<p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural,          🧠para mi el arma mas poderosa es la mente.  
+<p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural,          &&🧠para mi el arma mas poderosa es la mente.  
          💻🎯 Actualmente estoy studiando nevas tecnologías para desarrollar aún más mis habilidades.</p>
 <p>
   🙋‍♂️Me encanta el futbol, la disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido de futbol al desarrollo de softwar.</p>
