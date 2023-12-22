@@ -9,7 +9,7 @@
 <p>🐍🦜Soy un apasionado desarrollador fullStack., Me fascina el mundo natural,🧠para mi el arma mas poderosa es la mente.  
           🎯 Actualmente estoy studiando nevas tecnologías para desarrollar aún más mis habilidades.</p>
 <p>
-  🙋‍♂️Me encanta el futbol, la disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido de futbol al desarrollo de softwar.</p>
+  🙋‍♂️Me encanta el futbol, la disciplina y liderazgo se requiere en el campo y Todo esto se traslada despues de un partido de futbol al desarrollo de softwar.</p><br>
 
 - 📝 &nbsp; Aqui puedes encontrar mi curriculum <a>[>English<](https://drive.google.com/file/d/1TNSB2fTC-MRmbrlKOvh1ZuzhbB22LYzx/view) or in [>Español<](https://drive.google.com/file/d/1LVExh7OLQhU1-BHK3Y1ehyumuo-9roON/view)
 - 🤝 &nbsp; Me encanta colaborar en proyectos y aprender de forma práctica;
